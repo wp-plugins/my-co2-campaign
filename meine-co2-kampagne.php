@@ -56,7 +56,7 @@ function widget_co2kampagne_init() {
 		
 		<div id="blind_link" 
 style="position:absolute; z-index:1; left:0px;top:0px;width:210px;height:108px;cursor:pointer;" onclick="window.open('https://shop.co2kampagne.de/mit/<?php $url = $options['url'];	 echo $url; ?> ','_blank');return(false)"></div>
-		<iframe src="/wp-content/plugins/meine-co2-kampagne/zummitmachen.gif" style="border:0px #FFFFFF none;" name="co2kampagne" scrolling="no" frameborder="0" align=left marginheight="0px" marginwidth="0px" height="130" width="260"></iframe>
+		<iframe src="/wp-content/plugins/my-co2-campaign/zummitmachen.gif" style="border:0px #FFFFFF none;" name="co2kampagne" scrolling="no" frameborder="0" align=left marginheight="0px" marginwidth="0px" height="130" width="260"></iframe>
 		<div style="text-align:right">
 		
 		    <p style="text-align:left;"><label for="co2kampagne-intro"></label></p>
