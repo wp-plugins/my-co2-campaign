@@ -1,5 +1,5 @@
 === Meine CO2 Kampagne ===
-Contributors: leszczynski
+Contributors: co2kampagne
 Donate link: www.co2kampagne.de
 Tags: co2kampagne,widget,HTML,unternehmenzummitmachen, sidebar
 Requires at least: 2.3
