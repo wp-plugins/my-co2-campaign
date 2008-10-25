@@ -20,9 +20,9 @@ Stable tag: 1.0
 
 == Frequently Asked Questions ==
 
-= How do I add a Counter to a blog-post =
+= How do I add a counter to a blog-post =
 
-To add a Counter to any post or page just add the markup `[co2kampagne]Shop-Sub-URL[/co2kampagne]`, for instance `[co2kampagne]musterman[/co2kampagne]`. Note that supplying the Shop-URL is mandatory. 
+To add a counter to any post or page just add the markup `[co2kampagne]Shop-Sub-URL[/co2kampagne]`, for instance `[co2kampagne]musterman[/co2kampagne]`. Note that supplying the Shop-URL is mandatory. 
 
 == Screenshots ==
 1. Configure your Widget-Counter. 
