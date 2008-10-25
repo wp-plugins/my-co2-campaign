@@ -1,7 +1,7 @@
 === Meine CO2 Kampagne ===
 Contributors: co2kampagne
 Donate link: www.co2kampagne.de
-Tags: co2kampagne,widget,HTML,unternehmenzummitmachen, sidebar
+Tags: co2kampagne,widget,HTML,unternehmenzummitmachen, sidebar, post, page, co2
 Requires at least: 2.3
 Tested up to: 2.6.2
 Stable tag: 1.0
