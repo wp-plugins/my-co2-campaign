@@ -12,7 +12,7 @@ Stable tag: 1.0
 "Meine CO2 Kampagne" widget can display the counter of your co2 campaign.
 == Installation ==
 
-1. Download and unzip meine-co2-kampagne.zip
+1. Download and unzip my-co2-campaign.zip
 1. Upload the folder containing `meine-co2-kampagne.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. To add a counter on a sidebar, browse to Design > Widgets and add the 'Meine CO2 Kampagne" to desired sidebar. Configure the Counter Title and Shop-URL-"Particle" and save your changes.
